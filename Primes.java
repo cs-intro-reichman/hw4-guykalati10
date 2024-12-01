@@ -19,7 +19,7 @@ public class Primes {
             check++;
         }
 
-        System.out.println("Prime numbers up to " + N + ":");
+        // System.out.println("Prime numbers up to " + N + ":");
         int countPrime = 0;
 
         for(int i = 2 ; i < arr.length ; i++){
